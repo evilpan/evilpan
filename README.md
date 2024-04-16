@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=evilpan&theme=dark&show_icons=true&locale=en" alt="evilpan">
 
-- 🌱 I’m currently focusing on **Mobile and Web Vulnerablilities Research**
+- 🌱 I’m currently focusing on **Mobile and Web Vulnerabilities Research**
 
 - 📝 I regularly write articles on **[My Blog](https://evilpan.com/)**
 
