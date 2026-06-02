@@ -1,9 +1,9 @@
 name: Contributions grid snake
 
 on:
-  # run automatically every day, 20:00 UTC (4:00 UTC+8)
+  # run automatically every Sunday, 00:00 UTC+8 (Saturday 16:00 UTC)
   schedule:
-    - cron: "0 20 * * *" 
+    - cron: "0 16 * * 6"
   
   # allows to manually run the job at any time
   workflow_dispatch:
